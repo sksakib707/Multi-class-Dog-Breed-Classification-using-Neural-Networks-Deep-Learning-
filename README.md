@@ -1,2 +1,2 @@
-# Multi-class-Dog-Breed-Classification-using-Neural-Networks-Deep-Learning-
+# Multi-class-Dog-Breed-Classification-using-Neural-Networks-Deep-Learning
 Developed a convolutional neural network (CNN) pipeline to solve the challenge of fine-grained image classification among 120+ visually similar dog breeds. Leveraging Transfer Learning via the MobileNetV2 architecture, the project focuses on optimizing feature extraction from high-dimensional image data sourced from Kaggle.
