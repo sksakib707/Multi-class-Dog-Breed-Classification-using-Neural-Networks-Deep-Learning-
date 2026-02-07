@@ -30,6 +30,10 @@ The model is capable of:
 * **Top-10 Analysis:** Sorting the highest probability indices to show the most likely matches.
 * **Custom Testing:** Identifying breeds from external images uploaded by the user.
 
+## Predictions on custom images
+<img width="794" height="270" alt="download (1)" src="https://github.com/user-attachments/assets/51622d3e-89ff-438e-972f-3ed1b235a13e" />
+
+
 ##  Installation & Setup
 To run this project locally or in Colab, install the required dependencies:
 
